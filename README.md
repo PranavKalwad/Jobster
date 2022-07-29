@@ -1350,8 +1350,8 @@ const handleChange = (e) =>{
             value={userData.name}
             handleChange={handleChange}
           />
-          <FormRow
-            type='text'
+            <FormRow
+              type='text'
             labelText='last name'
             name='lastName'
             value={userData.lastName}
